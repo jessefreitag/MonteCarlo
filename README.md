@@ -1,8 +1,7 @@
 # An Exploration of Variance Reduction Techniques for Pricing European and Asian Options
-
-# Efficient Monte Carlo Pricing Methods for Asian and European Options: A Variance Reduction Approach
-
-## Abstract
+## Department of Statistics, University of Chicago
+### Jesse Freitag
+#### jfreitag@uchicago.edu
 
 In today’s dynamic financial landscape, options play a pivotal role in shaping investment strategies and managing risk. These unique and versatile financial instruments provide investors with the flexibility to hedge against adverse price movements, speculate on market trends, and optimize portfolio performance. Asian options, in particular, stand out for their unique characteristic of deriving their payoff from the average price of the underlying asset over a specified period, rather than relying on the asset’s price at a single point in time, like European options. However, the pricing of options in financial markets is very difficult and computationally complex, owing to the intricate interplay of various factors. Market volatility, time decay, interest rates, and the inherent stochastic nature of asset prices present formidable challenges to financial analysts and traders alike.
 
